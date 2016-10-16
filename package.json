@@ -1,0 +1,28 @@
+{
+  "name": "gulp-wrapped-concat",
+  "description": "Concatenates files with wrap",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikaruyasuda/gulp-wrapped-concat.git"
+  },
+  "author": {
+    "name": "HikaruYasuda",
+    "email": "yasuda.hikaru@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "concat-with-sourcemaps": "^1.0.0",
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.3"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "license": "MIT"
+}
